@@ -11,7 +11,8 @@ Untuk mengaksesnya melalui URL:http://localhost/lab7_php_dasar/php dasar.php.
 
 VARIABEL PHP...
 Menambahkan variabel pada program dan berikut hasil outputnya:
-![3](https://user-images.githubusercontent.com/82009410/118234545-abdae480-b4bd-11eb-9dd9-9e4de656f3a0.PNG)
+![0](https://user-images.githubusercontent.com/82009410/118240564-586c9480-b4c5-11eb-9cb8-f30b72b93119.PNG)
+
 
 PREDEFINE VARIABLE $_GET
 Untuk mengaksesnya dengan URL:http://localhost/Lab7_php_dasar/latihan2.php?nama=iqbal
